@@ -1,0 +1,10 @@
+C:\Users\Augusto\source\repos\ExamenParcial2\ExamenParcial2\bin\Debug\ExamenParcial2.exe.config
+C:\Users\Augusto\source\repos\ExamenParcial2\ExamenParcial2\bin\Debug\ExamenParcial2.exe
+C:\Users\Augusto\source\repos\ExamenParcial2\ExamenParcial2\bin\Debug\ExamenParcial2.pdb
+C:\Users\Augusto\source\repos\ExamenParcial2\ExamenParcial2\obj\Debug\ExamenParcial2.csprojAssemblyReference.cache
+C:\Users\Augusto\source\repos\ExamenParcial2\ExamenParcial2\obj\Debug\ExamenParcial2.Form1.resources
+C:\Users\Augusto\source\repos\ExamenParcial2\ExamenParcial2\obj\Debug\ExamenParcial2.Properties.Resources.resources
+C:\Users\Augusto\source\repos\ExamenParcial2\ExamenParcial2\obj\Debug\ExamenParcial2.csproj.GenerateResource.cache
+C:\Users\Augusto\source\repos\ExamenParcial2\ExamenParcial2\obj\Debug\ExamenParcial2.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\ExamenParcial2\ExamenParcial2\obj\Debug\ExamenParcial2.exe
+C:\Users\Augusto\source\repos\ExamenParcial2\ExamenParcial2\obj\Debug\ExamenParcial2.pdb
